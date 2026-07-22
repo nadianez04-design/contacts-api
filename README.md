@@ -8,7 +8,6 @@ REST API для управления контактами. Учебный про
 - Spring Boot
 - Spring Data JPA / Hibernate
 - PostgreSQL 17
-- Spring Data JPA / Hibernate
 - Maven
 
 ## Возможности
